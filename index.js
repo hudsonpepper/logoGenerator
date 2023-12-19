@@ -2,9 +2,7 @@ const fs = require('fs');
 const inquirer = require("inquirer");
 const jest = require("jest");
 
-//const fs = require('fs');
-//const inquirer = require('inquirer');
-//const genMd = require('./utils/generateMarkdown.js');
+
 inquirer
   .prompt ([
     {
