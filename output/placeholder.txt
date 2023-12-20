@@ -1,0 +1,3 @@
+--- DO NOT DELETE ---
+
+This is here so that git tracks the output folder.
